@@ -1,3 +1,3 @@
 # clark-ewerton.github.io
 
-Portfolio de projetos utilizando SeleniumWebDriver com JUnit.
+Portfolio de módulos de sistemas utilizando as ferramentas para automação de testes como SeleniumWebDriver, JAVA, JUnit, Appium, Sikuli etc.
